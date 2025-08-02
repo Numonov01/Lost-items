@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./src/logo/airlines-logo.png" alt="Airlines Logo" width="150" />
+</p>
+
 # Vite React Tailwind TypeScript
 
 This project is built using the following technologies:
