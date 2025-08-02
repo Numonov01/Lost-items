@@ -69,7 +69,7 @@ const ItemsListPage: React.FC<ItemsListPageProps> = ({
   return (
     <div className="container mx-auto p-4">
       <div className="flex justify-between items-center mb-6 bg-white rounded-lg shadow p-4">
-        <h1 className="text-2xl font-bold text-gray-800">Buyumlar Ro'yxati</h1>
+        <h1 className="text-2xl font-bold text-gray-800">List of lost items</h1>
         <Link
           to="/add"
           className="bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors"

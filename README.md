@@ -1,32 +1,32 @@
-# Vite React Tailwind TypeScript Template
+# Vite React Tailwind TypeScript
 
-Ushbu loyiha quyidagi texnologiyalar yordamida yaratilgan:
+This project is built using the following technologies:
 
-- **Vite** — Tez va zamonaviy frontend dasturlash uchun build tool.
-- **React** — UI komponentlarini yaratish uchun kutubxona.
+- **Vite** — Fast and modern frontend build tool.
+- **React** — Library for building UI components.
 - **Tailwind CSS** — Utility-first CSS framework.
-- **TypeScript** — JavaScript uchun tiplangan superset.
-- **Mock API** — Ma'lumotlarni test qilish va frontendni backenddan mustaqil rivojlantirish uchun.
+- **TypeScript** — Typed superset of JavaScript.
+- **Mock API** — For testing data and developing frontend independently from backend.
 
-## Loyihani ishga tushirish
+## Getting Started
 
 ```bash
-# Paketlarni o'rnatish
+# Install dependencies
 npm install
 
-# Lokal serverni ishga tushirish
+# Start the local development server
 npm run dev
 ```
 
-## Foydalanilgan texnologiyalar
+## Technologies Used
 
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- Mock API (masalan, [Mock Service Worker](https://mswjs.io/) yoki boshqa usullar)
+- Mock API (e.g., [Mock Api](https://mockapi.io/) or other methods)
 
-## Strukturasi
+## Project Structure
 
 ```
 src/
@@ -36,15 +36,15 @@ src/
     └── index.css
 ```
 
-## Xususiyatlar
+## Features
 
-- Tez start va hot-reload
-- Zamonaviy UI va responsiv dizayn
-- TypeScript bilan xavfsiz kod yozish
-- Mock API orqali test ma'lumotlari bilan ishlash
+- Fast startup and hot-reload
+- Modern UI and responsive design
+- Type-safe coding with TypeScript
+- Work with test data via Mock API
 
-## Boshlash uchun
+## Getting Started
 
-1. Repodan klon qiling
-2. `npm install` buyrug'ini bajaring
-3. `npm run dev` bilan ishga tushiring
+1. Clone the repository
+2. Run `npm install`
+3. Start with `npm run`
