@@ -1,4 +1,3 @@
-// src/types/types.ts
 export interface Item {
   id: string;
   imageUrl: string;
