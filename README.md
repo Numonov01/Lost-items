@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./src/logo/airlines-logo.png" alt="Airlines Logo" width="150" />
+    <img src="./src/logo/airlines-logo.png" alt="Logo" width="80" />
 </p>
 
 # Vite React Tailwind TypeScript
