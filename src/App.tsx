@@ -54,6 +54,7 @@ function App() {
             <ItemsListPage
               items={items}
               updateItemStatus={handleUpdateItemStatus}
+              isLoading={items.length === 0}
             />
           }
         />
