@@ -73,7 +73,7 @@ const ItemsListPage: React.FC<ItemsListPageProps> = ({
       <div className="flex justify-between items-center mb-6 bg-white rounded-lg shadow p-4">
         <div className="flex items-center">
           <img
-            src="/logo/airlines-logo.png"
+            src="./src/logo/airlines-logo.png"
             alt="airlines"
             className="h-12 mr-3"
           />
